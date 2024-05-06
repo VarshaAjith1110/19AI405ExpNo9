@@ -1,5 +1,5 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: Varsha Ajith S</h3>
+<h3>Name: Varsha Ajith </h3>
 <h3>Register Number: 212221230118</h3>
 <H3>Aim:</H3>
 <p>
